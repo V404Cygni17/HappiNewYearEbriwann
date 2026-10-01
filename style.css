@@ -1,0 +1,29 @@
+html, body {
+            overflow-y: auto;
+        }
+
+        h1 {
+            text-align: center;
+            color: rgb(5, 247, 5);
+            font-weight: bold;
+            font-size: 60px;
+        }
+
+        h2 {
+            text-align: center;
+            color: rgb(255, 3, 179);
+            font-weight: bold;
+            font-size: 40px;
+        }
+
+        p {
+            text-align: center;
+            color: rgb(231, 9, 1);
+            font-weight: bold;
+            font-size: 30px;
+        }
+
+img {
+    width: 80%;
+    height: auto;
+}
